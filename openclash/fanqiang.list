@@ -5,5 +5,6 @@
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,dockerhub.com
+# 域名匹配
 DOMAIN,docker.zsblog.eu.org
 
