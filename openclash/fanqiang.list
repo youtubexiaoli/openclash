@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,dockerhub.com
 DOMAIN-SUFFIX,hdhaven.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,ptlover.cc
+DOMAIN-SUFFIX,hatchingroup.com
 
 # 域名匹配
 DOMAIN,docker.zsblog.eu.org
